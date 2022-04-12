@@ -1,4 +1,4 @@
-# Codecademy Informative Website About Bears
+# Codecademy Fashion Blog Website
 
 ## Purpose
 
